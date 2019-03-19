@@ -1,0 +1,9 @@
+name: 'TestComponent'
+type: 'common'
+# dependencies: []
+destination: 'core/perl/lib/ECPD/Component/TestComponent'
+version: '1.0.1'
+language: 'perl'
+content: 'lib'
+
+
